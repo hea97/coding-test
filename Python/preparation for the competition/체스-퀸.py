@@ -32,3 +32,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # 선생님께서 보내주신 Python 예시 활용하여 작성.
